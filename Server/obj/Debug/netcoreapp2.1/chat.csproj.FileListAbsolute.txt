@@ -1,0 +1,65 @@
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\bin\Debug\netcoreapp2.1\chat.deps.json
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\bin\Debug\netcoreapp2.1\chat.runtimeconfig.json
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\bin\Debug\netcoreapp2.1\chat.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\bin\Debug\netcoreapp2.1\chat.dll
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\bin\Debug\netcoreapp2.1\chat.pdb
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\obj\Debug\netcoreapp2.1\chat.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\obj\Debug\netcoreapp2.1\chat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\obj\Debug\netcoreapp2.1\chat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\obj\Debug\netcoreapp2.1\chat.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\obj\Debug\netcoreapp2.1\chat.dll
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\obj\Debug\netcoreapp2.1\chat.pdb
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\bin\Debug\netcoreapp2.1\MongoDB.Bson.dll
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\bin\Debug\netcoreapp2.1\MongoDB.Driver.Core.dll
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\bin\Debug\netcoreapp2.1\MongoDB.Driver.dll
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\obj\Debug\netcoreapp2.1\chat.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Unity-Heroku-Matchmaking-Websockets-master\Chat\chat\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\bin\Debug\netcoreapp2.1\chat.deps.json
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\bin\Debug\netcoreapp2.1\chat.runtimeconfig.json
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\bin\Debug\netcoreapp2.1\chat.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\bin\Debug\netcoreapp2.1\chat.dll
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\bin\Debug\netcoreapp2.1\chat.pdb
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\bin\Debug\netcoreapp2.1\MongoDB.Bson.dll
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\bin\Debug\netcoreapp2.1\MongoDB.Driver.Core.dll
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\bin\Debug\netcoreapp2.1\MongoDB.Driver.dll
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\obj\Debug\netcoreapp2.1\chat.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\obj\Debug\netcoreapp2.1\chat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\obj\Debug\netcoreapp2.1\chat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\obj\Debug\netcoreapp2.1\chat.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\obj\Debug\netcoreapp2.1\chat.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\obj\Debug\netcoreapp2.1\chat.dll
+C:\Users\ASUS\Desktop\Project prince\MMOProject\chat\obj\Debug\netcoreapp2.1\chat.pdb
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\chat\bin\Debug\netcoreapp2.1\chat.deps.json
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\chat\bin\Debug\netcoreapp2.1\chat.runtimeconfig.json
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\chat\bin\Debug\netcoreapp2.1\chat.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\chat\bin\Debug\netcoreapp2.1\chat.dll
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\chat\bin\Debug\netcoreapp2.1\chat.pdb
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\chat\obj\Debug\netcoreapp2.1\chat.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\chat\obj\Debug\netcoreapp2.1\chat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\chat\obj\Debug\netcoreapp2.1\chat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\chat\obj\Debug\netcoreapp2.1\chat.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\chat\obj\Debug\netcoreapp2.1\chat.dll
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\chat\obj\Debug\netcoreapp2.1\chat.pdb
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\Server\bin\Debug\netcoreapp2.1\chat.deps.json
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\Server\bin\Debug\netcoreapp2.1\chat.runtimeconfig.json
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\Server\bin\Debug\netcoreapp2.1\chat.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\Server\bin\Debug\netcoreapp2.1\chat.dll
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\Server\bin\Debug\netcoreapp2.1\chat.pdb
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\Server\obj\Debug\netcoreapp2.1\chat.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\Server\obj\Debug\netcoreapp2.1\chat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\Server\obj\Debug\netcoreapp2.1\chat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\Server\obj\Debug\netcoreapp2.1\chat.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\Server\obj\Debug\netcoreapp2.1\chat.dll
+C:\Users\ASUS\Desktop\Project prince\MMOFramework\Server\obj\Debug\netcoreapp2.1\chat.pdb
+C:\Users\ASUS\Downloads\FromGithub\Unity-MMO-Framework\Server\bin\Debug\netcoreapp2.1\chat.deps.json
+C:\Users\ASUS\Downloads\FromGithub\Unity-MMO-Framework\Server\bin\Debug\netcoreapp2.1\chat.runtimeconfig.json
+C:\Users\ASUS\Downloads\FromGithub\Unity-MMO-Framework\Server\bin\Debug\netcoreapp2.1\chat.runtimeconfig.dev.json
+C:\Users\ASUS\Downloads\FromGithub\Unity-MMO-Framework\Server\bin\Debug\netcoreapp2.1\chat.dll
+C:\Users\ASUS\Downloads\FromGithub\Unity-MMO-Framework\Server\bin\Debug\netcoreapp2.1\chat.pdb
+C:\Users\ASUS\Downloads\FromGithub\Unity-MMO-Framework\Server\obj\Debug\netcoreapp2.1\chat.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\FromGithub\Unity-MMO-Framework\Server\obj\Debug\netcoreapp2.1\chat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\FromGithub\Unity-MMO-Framework\Server\obj\Debug\netcoreapp2.1\chat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\FromGithub\Unity-MMO-Framework\Server\obj\Debug\netcoreapp2.1\chat.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\FromGithub\Unity-MMO-Framework\Server\obj\Debug\netcoreapp2.1\chat.dll
+C:\Users\ASUS\Downloads\FromGithub\Unity-MMO-Framework\Server\obj\Debug\netcoreapp2.1\chat.pdb
